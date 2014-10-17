@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gvs:home|Door43 (gvs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gvs|d43-gvs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gvs/archive/master.zip|d43-gvs.zip]]
+
+**Recent Changes**
+{{changes>ns = gvs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gvs|Ethnologue data]]
+
